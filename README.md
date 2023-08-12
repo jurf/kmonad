@@ -74,6 +74,7 @@ username and submit a pull request!
 ### Startup
 There are startup scripts available for different init systems in
 [startup](startup/).
+- [GNOME Shell extension](https://extensions.gnome.org/extension/6069/kmonad-toggle/)
 
 ## Troubleshooting
 For several commonly asked questions regarding various configuration issues, please see:
